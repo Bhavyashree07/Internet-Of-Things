@@ -15,3 +15,20 @@ https://wokwi.com/projects/322062421191557714(hello wokwi)
 https://wokwi.com/projects/334980856741364308(servo motar clocktype)
 https://wokwi.com/projects/334980883657261652
 https://wokwi.com/projects/334980883657261652(servo motar)
+
+
+#include <Servo.h>
+Servo servo;
+int potpin=A0; //Analog pin used to connect Potentiometer 
+int val;
+void setup()
+{
+  servo.attach(11);   //Servo attached to pin 11
+}
+void loop()
+{
+  val=analogRead(potpin);    //Reads theb value of PM(from 0 to 1023)
+  val=map(val,A0,1023,0,180); //A0,1023(8 bit reference ) for PM. 0-180 for servo
+  servo.write(val);
+  delay(15);  //waits for the servo to get there
+}
