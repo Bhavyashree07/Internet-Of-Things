@@ -38,3 +38,7 @@ void loop()
 https://wokwi.com/projects/334982136325997140(potentiometer)
 
 https://wokwi.com/projects/335065072543990354(buzzor+registor)
+
+https://wokwi.com/projects/335068937651749459(buzzor+registor+button)
+
+https://wokwi.com/projects/335071539262128722(uiltrasonic)
