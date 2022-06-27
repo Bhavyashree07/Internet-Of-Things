@@ -145,5 +145,17 @@ delay(50);
   delay(1000);
  }
 
-
-
+**servometer using potentiometer**
+#include <Servo.h>
+Servo myservo;
+int potpin = A1;  // analog pin used to connect the potentiometer
+int val;    // variable to read the value from the analog pin
+void setup() {
+  myservo.attach(9);  // attaches the servo on pin 9 to the servo object
+}
+void loop() {
+  val = analogRead(potpin);            
+  val = map(val, A1, 1023, 0, 180);     
+  myservo.write(val);                  
+  delay(500);                           
+}
