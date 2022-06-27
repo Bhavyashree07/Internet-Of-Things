@@ -1,20 +1,20 @@
 3LED:
-https://wokwi.com/projects/333715410055594580
+1.https://wokwi.com/projects/333715410055594580
 
 
 RGB LED:(with REGISTER)
-https://wokwi.com/projects/333800186223526484
+2.https://wokwi.com/projects/333800186223526484
 
 RGB :
-https://wokwi.com/projects/333804680383562322(starting with red green and blue)
+3.https://wokwi.com/projects/333804680383562322(starting with red green and blue)
 
-https://wokwi.com/projects/322062421191557714(hello wokwi)
+4.https://wokwi.com/projects/322062421191557714(hello wokwi)
 
 
 
-https://wokwi.com/projects/334980856741364308(servo motar clocktype)
+5.https://wokwi.com/projects/334980856741364308(servo motar clocktype)
 https://wokwi.com/projects/334980883657261652
-https://wokwi.com/projects/334980883657261652(servo motar)
+6.https://wokwi.com/projects/334980883657261652(servo motar)
 
 
 #include <Servo.h>
@@ -35,12 +35,12 @@ void loop()
 
 
 
-https://wokwi.com/projects/334982136325997140(potentiometer)
+7.https://wokwi.com/projects/334982136325997140(potentiometer)
 
-https://wokwi.com/projects/335065072543990354(buzzor+registor)
+8.https://wokwi.com/projects/335065072543990354(buzzor+registor)
 
-https://wokwi.com/projects/335068937651749459(buzzor+registor+button)
+9.https://wokwi.com/projects/335068937651749459(buzzor+registor+button)
 
 https://wokwi.com/projects/335072279767548499(ultrasonic)   
-https://wokwi.com/projects/335071539262128722(ultrasonik(abhi))
-https://wokwi.com/projects/335605344348668500(ultrasonic with buzzor)
+10.https://wokwi.com/projects/335071539262128722(ultrasonik(abhi))
+11.https://wokwi.com/projects/335605344348668500(ultrasonic with buzzor)
