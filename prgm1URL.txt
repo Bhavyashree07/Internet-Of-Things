@@ -1,6 +1,6 @@
-3LED:
-1.https://wokwi.com/projects/333715410055594580
+https://wokwi.com/projects/335608754889294419(Blink an LED)
 
+1.https://wokwi.com/projects/333715410055594580(3LED)
 
 RGB LED:(with REGISTER)
 2.https://wokwi.com/projects/333800186223526484
@@ -12,9 +12,9 @@ RGB :
 
 
 
-5.https://wokwi.com/projects/334980856741364308(servo motar clocktype)
-https://wokwi.com/projects/334980883657261652
-6.https://wokwi.com/projects/334980883657261652(servo motar)
+5https://wokwi.com/projects/334980856741364308(servo motar clocktype)
+https://wokwi.com/projects/334980883657261652(servometer1)
+
 
 
 #include <Servo.h>
