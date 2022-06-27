@@ -45,3 +45,5 @@ https://wokwi.com/projects/335072279767548499(ultrasonic)
 9.https://wokwi.com/projects/335071539262128722(ultrasonik(abhi))
 10.https://wokwi.com/projects/335605344348668500(ultrasonic with buzzor)
 11.https://wokwi.com/projects/335610819506078291(Ultrasonic+buzzor+led+resistor)
+
+https://wokwi.com/projects/335616319247352402(two ultra sonic)
