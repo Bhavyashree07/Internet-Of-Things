@@ -43,3 +43,4 @@ https://wokwi.com/projects/335068937651749459(buzzor+registor+button)
 
 https://wokwi.com/projects/335072279767548499(ultrasonic)   
 https://wokwi.com/projects/335071539262128722(ultrasonik(abhi))
+https://wokwi.com/projects/335605344348668500(ultrasonic with buzzor)
