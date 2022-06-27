@@ -69,7 +69,7 @@ void loop() {
   lcd.print(millis() / 1000);
 }
 
-  **servometer**
+  **servometer**(clock type)
 // Include the Servo library 
 #include <Servo.h> 
 // Declare the Servo pin 
@@ -117,7 +117,30 @@ void loop(){
   delay(1000);
   Servo1.write(160);
   delay(1000);
-  Servo1.write(170);
+  Servo1.write(170);  
    // Make servo go to 180 degrees 
    Servo1.write(180); 
    delay(1000); 
+   
+   
+   **servometer**
+#include<Servo.h>
+Servo Myservo;
+int pos;
+void setup()
+{
+Myservo.attach(9);
+}
+void loop()
+{
+    for(pos=0;pos<=180;pos++){
+Myservo.write(pos);
+delay(50);
+}
+  delay(1000);
+    for(pos=180;pos>=0;pos--){
+Myservo.write(pos);
+delay(50);
+}
+  delay(1000);
+  }
