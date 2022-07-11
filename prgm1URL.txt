@@ -49,3 +49,4 @@ https://wokwi.com/projects/335072279767548499(ultrasonic)
 https://wokwi.com/projects/335616319247352402(two ultra sonic)
 
 https://wokwi.com/projects/336873560120230483(potentiometer with led)
+https://wokwi.com/projects/336873643743117906(potentiometer with push button)
