@@ -1,19 +1,19 @@
-https://wokwi.com/projects/335608754889294419(Blink an LED)
+https://wokwi.com/projects/335608754889294419  (Blink an LED)
 
-1.https://wokwi.com/projects/333715410055594580(3LED)
+1.https://wokwi.com/projects/333715410055594580  (3LED)
 
 RGB LED:(with REGISTER)
 2.https://wokwi.com/projects/333800186223526484
 
 RGB :
-3.https://wokwi.com/projects/333804680383562322(starting with red green and blue)
+3.https://wokwi.com/projects/333804680383562322  (starting with red green and blue)
 
-4.https://wokwi.com/projects/322062421191557714(hello wokwi)
+4.https://wokwi.com/projects/322062421191557714  (hello wokwi)
 
 
 
-5https://wokwi.com/projects/334980856741364308(servo motar clocktype)
-https://wokwi.com/projects/334980883657261652(servometer1)
+5https://wokwi.com/projects/334980856741364308  (servo motar clocktype)
+https://wokwi.com/projects/334980883657261652  (servometer1)
 
 
 
@@ -35,18 +35,18 @@ void loop()
 
 
 
-6.https://wokwi.com/projects/334982136325997140(potentiometer)
+6.https://wokwi.com/projects/334982136325997140  (potentiometer)
 
-7.https://wokwi.com/projects/335065072543990354(buzzor+registor)
+7.https://wokwi.com/projects/335065072543990354  (buzzor+registor)
 
-8.https://wokwi.com/projects/335068937651749459(buzzor+registor+button)
+8.https://wokwi.com/projects/335068937651749459  (buzzor+registor+button)
 
-https://wokwi.com/projects/335072279767548499(ultrasonic)   
-9.https://wokwi.com/projects/335071539262128722(ultrasonik(abhi))
-10.https://wokwi.com/projects/335605344348668500(ultrasonic with buzzor)
-11.https://wokwi.com/projects/335610819506078291(Ultrasonic+buzzor+led+resistor)
+https://wokwi.com/projects/335072279767548499  (ultrasonic)   
+9.https://wokwi.com/projects/335071539262128722  (ultrasonik(abhi))
+10.https://wokwi.com/projects/335605344348668500  (ultrasonic with buzzor)
+11.https://wokwi.com/projects/335610819506078291   (Ultrasonic+buzzor+led+resistor)
 
-12.https://wokwi.com/projects/335616319247352402(two ultra sonic)
+12.https://wokwi.com/projects/335616319247352402  (two ultra sonic)
 
-13.https://wokwi.com/projects/336873560120230483(potentiometer with led)
-14.https://wokwi.com/projects/336873643743117906(potentiometer with push button)
+13.https://wokwi.com/projects/336873560120230483  (potentiometer with led)
+14.https://wokwi.com/projects/336873643743117906   (potentiometer with push button)
