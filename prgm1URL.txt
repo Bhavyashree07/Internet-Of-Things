@@ -12,7 +12,7 @@ RGB :
 
 
 
-5https://wokwi.com/projects/334980856741364308  (servo motar clocktype)
+5.https://wokwi.com/projects/334980856741364308  (servo motar clocktype)
 https://wokwi.com/projects/334980883657261652  (servometer1)
 
 
