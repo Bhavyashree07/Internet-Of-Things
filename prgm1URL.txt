@@ -52,7 +52,9 @@ https://wokwi.com/projects/335072279767548499  (ultrasonic)
 14.https://wokwi.com/projects/336873643743117906   (potentiometer with push button)
 15.https://wokwi.com/projects/336967885986464339  (ESP32 )
 16.https://wokwi.com/projects/337605556909900371 (LCD+DHT22)
-
+17.https://wokwi.com/projects/340775764469219922 - LED_CHASER
+18.https://wokwi.com/projects/340776572602548818 - LDR
+19.https://wokwi.com/projects/340776926585029204 - LDR_LED
 
 
 HARDWARE
