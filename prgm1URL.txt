@@ -61,7 +61,7 @@ HARDWARE
 
 ULTRASONIC:
 
-const int trigPin = D5;
+const int trigPin = D5;    
 const int echoPin = D6;
 // defines variables
 long duration;
