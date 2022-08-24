@@ -12,8 +12,9 @@ RGB :<br>
 10.https://wokwi.com/projects/335605344348668500  (ultrasonic with buzzor)<br>
 11.https://wokwi.com/projects/335610819506078291   (Ultrasonic+buzzor+led+resistor)<br>
 12.https://wokwi.com/projects/336873560120230483  (potentiometer with led)<br>
-13
-14.https://wokwi.com/projects/340775764469219922 - (LED_CHASER)<br>
-15.https://wokwi.com/projects/340776572602548818 - LDR<br>
-16.https://wokwi.com/projects/340776926585029204 - LDR_LED<br> 
+13https://wokwi.com/projects/337602684471214674 - DHT22(Humidity and Temperature sensor)<br>
+14.https://wokwi.com/projects/337604296859189842 - DHT22 + LCD(Humidity and Temperature sensor)<br>
+15.https://wokwi.com/projects/340775764469219922 - (LED_CHASER)<br><br>
+16.https://wokwi.com/projects/340776572602548818 - LDR<br>
+17.https://wokwi.com/projects/340776926585029204 - LDR_LED<br> 
       
