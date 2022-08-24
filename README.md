@@ -12,7 +12,7 @@ RGB :<br>
 10.https://wokwi.com/projects/335605344348668500  (ultrasonic with buzzor)<br>
 11.https://wokwi.com/projects/335610819506078291   (Ultrasonic+buzzor+led+resistor)<br>
 12.https://wokwi.com/projects/336873560120230483  (potentiometer with led)<br>
-13.https://wokwi.com/projects/336873643743117906   (potentiometer with push button)<br>
+13
 14.https://wokwi.com/projects/340775764469219922 - (LED_CHASER)<br>
 15.https://wokwi.com/projects/340776572602548818 - LDR<br>
 16.https://wokwi.com/projects/340776926585029204 - LDR_LED<br> 
