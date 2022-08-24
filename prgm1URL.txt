@@ -16,7 +16,7 @@ RGB :
 https://wokwi.com/projects/334980883657261652  (servometer1)
 
 
-
+servometer using potentiometer
 #include <Servo.h>
 Servo servo;
 int potpin=A0; //Analog pin used to connect Potentiometer 
