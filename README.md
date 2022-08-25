@@ -38,7 +38,7 @@ RGB :<br>
 9.  
 10.   
 11.    
-12.     
+12.      
 13. LED_Chaser: https://wokwi.com/projects/340854632473428562<br>
 
 
