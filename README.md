@@ -33,7 +33,7 @@ RGB :<br>
 4. ESP32 LCD: https://wokwi.com/projects/340854854168609362 <br>
 5.servomotar with push button: https://wokwi.com/projects/340856211886834260
 6.servomotor with sliding potentiometer : https://wokwi.com/projects/340872161402028628<br>
-7.
+7.Buzzor with push button:https://wokwi.com/projects/340857898569564756
 8. 
 9.  
 10.   
@@ -43,7 +43,7 @@ RGB :<br>
 
 
 
-https://wokwi.com/projects/340857527721787988
+
 
 https://wokwi.com/projects/340857898569564756
 
