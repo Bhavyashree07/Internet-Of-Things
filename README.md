@@ -35,7 +35,7 @@ RGB :<br>
 6.servomotor with sliding potentiometer : https://wokwi.com/projects/340872161402028628<br>
 7.Buzzor with push button:https://wokwi.com/projects/340857898569564756<br>
 8.Ultrasonic sensor with buzzor:https://wokwi.com/projects/340950822622855764<br> 
-9.  
+9.https://wokwi.com/projects/340951268671357523  
 10.   
 11.    
 12.      
@@ -45,6 +45,5 @@ RGB :<br>
 
 
  
-https://wokwi.com/projects/340857898569564756
 
 
