@@ -19,7 +19,31 @@ RGB :<br>
 17.https://wokwi.com/projects/340776926585029204 - LDR_LED<br> 
       
 
-       
+
+sound sennsor<br>
+ const int ledPin = 12;
+const int soundPin = 8;
+int soundVal = 0;
+void setup ()
+{
+  pinMode (ledPin, OUTPUT);
+  pinMode (soundPin, INPUT);
+  Serial.begin (9600);
+}
+ void loop ()
+{
+  soundVal = digitalRead(soundPin);
+  if (soundVal == HIGH)
+  {
+    digitalWrite(ledPin, HIGH);
+    Serial.println("Clap detected");
+    delay(1000);
+  }
+  else
+  {
+    digitalWrite(ledPin,LOW);
+      }
+ }      
  
  
      
