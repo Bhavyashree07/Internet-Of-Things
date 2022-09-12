@@ -41,9 +41,10 @@ https://wokwi.com/projects/341409508737679955 - 3 LED + Sliding potentiometer
 
 https://wokwi.com/projects/342584167729463890-Seven segment LED display example
 https://wokwi.com/projects/296234816685212169-Analog Joystick with two axes (horizontal/vertical) and an integrated push button
-
-
-
+https://wokwi.com/projects/322410731508073042-DHT22 on the ESP32 
+https://wokwi.com/projects/342588206115455572-Display distance on LCD screen with buzzer and LED(1)
+https://wokwi.com/projects/342589100075778644-(2)
+https://wokwi.com/arduino/libraries/demo/electronic-safe-Electronic Safe, powered by an Arduino Uno
 
 sound sennsor<br>
  const int ledPin = 12;<br>
