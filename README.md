@@ -37,6 +37,14 @@ https://wokwi.com/projects/340936317213868626 - LDR
 https://wokwi.com/projects/340936847717827156 - LDR + LED
 https://wokwi.com/projects/341409508737679955 - 3 LED + Sliding potentiometer
 
+
+
+https://wokwi.com/projects/342584167729463890-Seven segment LED display example
+
+
+
+
+
 sound sennsor<br>
  const int ledPin = 12;<br>
 const int soundPin = 8;<br>
