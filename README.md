@@ -3,7 +3,7 @@
 RGB :<br>
 2.https://wokwi.com/projects/333804680383562322  (starting with red green and blue)<br>
 3.https://wokwi.com/projects/322062421191557714  (hello wokwi)<br>
-4.https://wokwi.com/projects/334980856741364308  (servo motar clocktype)<br>
+4.https://wokwi.com/projects/334980856741364308  (servo motar clocktype)<br>  
 5.https://wokwi.com/projects/334982136325997140  (servometer with potentiometer)<br>
 6.https://wokwi.com/projects/336873643743117906   ( servometer with push button)<br>
 7.https://wokwi.com/projects/335065072543990354  (buzzor+registor)<br>
