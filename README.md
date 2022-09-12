@@ -40,7 +40,7 @@ https://wokwi.com/projects/341409508737679955 - 3 LED + Sliding potentiometer
 
 
 https://wokwi.com/projects/342584167729463890-Seven segment LED display example
-
+https://wokwi.com/projects/296234816685212169-Analog Joystick with two axes (horizontal/vertical) and an integrated push button
 
 
 
